@@ -1,1 +1,5 @@
-# AddonsHUD
+[![downloads](https://img.shields.io/github/downloads/Cat-Potato/AddonsHUD/total?style=for-the-badge&logo=icloud&color=%233A6D8C)](https://github.com/Cat-Potato/PlayerListDiscord/releases/latest)
+![Latest](https://img.shields.io/github/v/release/Cat-Potato/AddonsHUD?style=for-the-badge&label=Latest%20Release&color=%23D91656)
+## [PL](PL.md)
+## [EN](EN.md)
+![Alt](https://repobeats.axiom.co/api/embed/c70099178576e95f66081f65d8fc32fbc2ee5a09.svg "Repobeats analytics image")
